@@ -72,7 +72,8 @@
   - [GlobalEventHandlers](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers): Represents an object that can handle events globally.
   - [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection): Represents the user's text selection in a document.
   - [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent): Represents a keyboard event.
-  - [MouseEvent](https://developer.mozilla.org/en-US/docs/We  - [RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel): Represents a channel for sending data over WebRTC.
+  - [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent) Represents a event for the mouse.
+  - [RTCDataChannel](https://developer.mozilla.org/en-US/docs/Web/API/RTCDataChannel): Represents a channel for sending data over WebRTC.
   - [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection): Represents a connection between two peers in WebRTC.
   - [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance): Provides timing and performance-related information.
   - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API): Provides a local database for storing structured data.
