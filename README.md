@@ -50,4 +50,5 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 If you have any questions or suggestions, feel free to contact me:
 
 - **Name:** Om Shingare
+- **Mail:** [mail me](omshingare@duck.com)
 - **GitHub:** [@ShingareOm](https://github.com/ShingareOm)
