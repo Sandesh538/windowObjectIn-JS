@@ -1,7 +1,7 @@
 # Subobjects of the Window Object in JavaScript
 
 <p align="center">
-  <img src="/omshingare.jpg" alt="my image">
+  <img src="omshingare.jpg" alt="my image">
 </p>
 
 <div align="center">  
